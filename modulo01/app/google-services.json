@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523292400762",
+    "project_id": "moviles-2026a-gr1-gams",
+    "storage_bucket": "moviles-2026a-gr1-gams.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523292400762:android:e00cff06c999b76610afc3",
+        "android_client_info": {
+          "package_name": "com.example.aplicacionesmoviles2026a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOfaFpA-3OtgrkoFJ0P80JVSTx_M3K4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
