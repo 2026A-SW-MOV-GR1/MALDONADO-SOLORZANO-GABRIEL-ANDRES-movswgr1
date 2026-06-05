@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Persistencia Dual",
+    "slug": "persistencia-dual",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
